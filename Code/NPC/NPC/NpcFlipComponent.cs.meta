@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/01_Works/CM/01_Scripts/NPC/NpcFlip.cs.meta
+guid: 226d7727173f53d4f9e2ab86fd3a5a7d
+========
+guid: 16236fc78ec68ec44a4f85d755f64d18
+>>>>>>>> YHB:Assets/01_Works/CM/01_Scripts/NPC/States/NPC_SaveTreeState.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
